@@ -85,7 +85,11 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
+	{ogg: "songs/The Script - Superheroes.ogg", name: "The Script - Superheroes"},
+	{ogg: "songs/Bastille - Pompeii.ogg", name: "Bastille - Pompeii"},
+	{ogg: "songs/Icona Pop - All Night.ogg", name: "Icona Pop - All Night"},
+	{ogg: "songs/Jessie J - Domino.ogg", name: "Jessie J - Domino"},
+	{ogg: "songs/Owl City & Carly Rae Jepsen - Good Time.ogg", name: "Owl City & Carly Rae Jepsen - Good Time"},
 ];
 
 /*Random music order?*/
@@ -93,7 +97,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 40;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -103,6 +107,8 @@ var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
 "Dont Be THEONEANDONLYPOO"
+"Do Not RDM"
+"Weebs NOT ALLOWED"
 ];
 
 /*Random message order?*/
