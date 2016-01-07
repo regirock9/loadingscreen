@@ -89,7 +89,7 @@ var l_musicPlaylist = [
 	{ogg: "songs/Bastille - Pompeii.ogg", name: "Bastille - Pompeii"},
 	{ogg: "songs/Icona Pop - All Night.ogg", name: "Icona Pop - All Night"},
 	{ogg: "songs/Jessie J - Domino.ogg", name: "Jessie J - Domino"},
-	{ogg: "songs/Owl City & Carly Rae Jepsen - Good Time.ogg", name: "Owl City & Carly Rae Jepsen - Good Time"},
+	{ogg: "songs/Owl City & Carly Rae Jepsen - Good Time.ogg", name: "Owl City & Carly Rae Jepsen - Good Time"}
 ];
 
 /*Random music order?*/
