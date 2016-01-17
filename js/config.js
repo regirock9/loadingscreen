@@ -106,9 +106,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Dont Be THEONEANDONLYPOO",
 "Do Not RDM",
-"Weebs NOT ALLOWED"
 ];
 
 /*Random message order?*/
